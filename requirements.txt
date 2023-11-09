@@ -1,0 +1,10 @@
+Django
+django-crispy-forms
+django-widget-tweaks
+mongoengine
+mysqlclient==1.4.2.post1
+pkg-resources==0.5.1
+pymongo
+pytz
+six
+sqlparse
